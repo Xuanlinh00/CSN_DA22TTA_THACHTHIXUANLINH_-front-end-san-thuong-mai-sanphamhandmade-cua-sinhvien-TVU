@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng nhập gian hàng</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="./images/logo1.jpg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class=" text-white p-3">
+        <h1 class="text-center">Đăng nhập gian hàng</h1>
+    </header>
+
+    <main class="container mt-4">
+        <form id="login-form" class="mx-auto" style="max-width: 400px;">
+            <div class="mb-3">
+                <label for="username" class="form-label">Tên đăng nhập</label>
+                <input type="text" class="form-control" id="username" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Mật khẩu</label>
+                <input type="password" class="form-control" id="password" required>
+            </div>
+            <button type="submit" class="btn w-100">Đăng nhập</button>
+        </form>
+    </main>
+
+    <script src="js/main.js"></script>
+    <script>
+        document.getElementById("login-form").addEventListener("submit", async function (event) {
+            event.preventDefault();
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            // Fetch dữ liệu chủ gian hàng
+            const owners = await fetchData("store_owners");
+
+            // Kiểm tra đăng nhập
+            const owner = owners.find(o => o.username === username && o.password === password);
+            if (owner) {
+                localStorage.setItem("loggedInOwner", JSON.stringify(owner)); // Lưu trạng thái đăng nhập
+                window.location.href = "quanly.html"; // Điều hướng đến trang quản lý
+            } else {
+                alert("Tên đăng nhập hoặc mật khẩu không đúng!");
+            }
+        });
+    </script>
+</body>
+</html>

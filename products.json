@@ -1,0 +1,1699 @@
+{
+  
+    "featured_products": [
+      {
+        "id": 1,
+        "name": "Hoa hồng đỏ kẽm",
+        "description": "Hoa hồng kẽm nhung đỏ rực rỡ, mang lại không khí ấm cúng.",
+        "price": 100000,
+        "image": "/images/kem/kem1.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Hoa cúc vàng kẽm",
+        "description": "Hoa cúc vàng làm từ kẽm nhung, dễ dàng tạo điểm nhấn cho bàn làm việc.",
+        "price": 90000,
+        "image": "/images/kem/kem2.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 3,
+        "name": "Mũ len cho bé gái",
+        "description": "Mũ len cho bé gái, ấm áp và dễ thương cho mùa đông.",
+        "price": 120000,
+        "image": "/images/kem/kem3.jpg",
+        "store_id": 2
+      },
+      {
+        "id": 4,
+        "name": "Áo len cho bé trai",
+        "description": "Áo len ấm áp cho bé trai, giữ ấm trong mùa đông lạnh giá.",
+        "price": 150000,
+        "image": "/images/kem/kem4.jpg",
+        "store_id": 2
+      },
+      {
+        "id": 5,
+        "name": "Móc khóa len hình thú",
+        "description": "Móc khóa len hình thú dễ thương, tạo điểm nhấn cho balo hay túi xách.",
+        "price": 50000,
+        "image": "/images/kem/kem8.jpg",
+        "store_id": 3
+      },
+      {
+        "id": 6,
+        "name": "Lồng đèn kẽm nhung",
+        "description": "Lồng đèn làm từ kẽm nhung, đẹp mắt và bền bỉ, phù hợp trang trí dịp lễ.",
+        "price": 150000,
+        "image": "/images/kem/kem9.jpg",
+        "store_id": 3
+      },
+      {
+        "id": 7,
+        "name": "Cây thông kẽm nhung",
+        "description": "Cây thông kẽm nhung handmade, lý tưởng cho mùa Giáng Sinh.",
+        "price": 250000,
+        "image": "/images/kem/kem10.jpg",
+        "store_id": 4
+      },
+      {
+        "id": 8,
+        "name": "Hoa len trang trí",
+        "description": "Hoa len trang trí nhiều màu sắc, thích hợp làm quà tặng hoặc trang trí nhà cửa.",
+        "price": 180000,
+        "image": "/images/kem/kem11.jpg",
+        "store_id": 4
+      },
+      {
+        "id": 9,
+        "name": "Túi xách len mini",
+        "description": "Túi xách nhỏ gọn, phù hợp mọi lứa tuổi.",
+        "price": 200000,
+        "image": "/images/kem/kem12.jpg",
+        "store_id": 5
+      },
+      {
+        "id": 10,
+        "name": "Túi xách len lớn",
+        "description": "Túi xách lớn, phong cách và bền đẹp.",
+        "price": 300000,
+        "image": "/images/kem/kem13.jpg",
+        "store_id": 5
+      },
+      {
+        "id": 11,
+        "name": "Hoa hồng vàng kẽm",
+        "description": "Hoa hồng vàng làm từ kẽm nhung, nhẹ nhàng và thanh thoát.",
+        "price": 110000,
+        "image": "/images/kem/kem14.jpg",
+        "store_id": 6
+      },
+      {
+        "id": 12,
+        "name": "Hoa cúc tím kẽm",
+        "description": "Hoa cúc tím từ kẽm nhung, dễ chăm sóc và bền bỉ.",
+        "price": 95000,
+        "image": "/images/kem/kem15.jpg",
+        "store_id": 6
+      },
+      {
+        "id": 13,
+        "name": "Mũ len cho bé trai",
+        "description": "Mũ len ấm áp cho bé trai trong mùa đông.",
+        "price": 125000,
+        "image": "/images/kem/kem16.jpg",
+        "store_id": 7
+      },
+      {
+        "id": 14,
+        "name": "Áo len cho trẻ em",
+        "description": "Áo len ấm áp cho các bé, vừa vặn và thoải mái.",
+        "price": 160000,
+        "image": "/images/kem/kem17.jpg",
+        "store_id": 7
+      },
+      {
+        "id": 15,
+        "name": "Móc khóa len dễ thương",
+        "description": "Móc khóa len hình thú dễ thương, phong cách đáng yêu.",
+        "price": 45000,
+        "image": "/images/kem/kem18.jpg",
+        "store_id": 8
+      },
+      {
+        "id": 16,
+        "name": "Lồng đèn kẽm nhung nhỏ",
+        "description": "Lồng đèn làm từ kẽm nhung, có thể treo trong phòng khách hoặc phòng ngủ.",
+        "price": 120000,
+        "image": "/images/kem/kem19.jpg",
+        "store_id": 8
+      },
+      {
+        "id": 17,
+        "name": "Cây thông kẽm nhung mini",
+        "description": "Cây thông mini làm từ kẽm nhung, dễ dàng trang trí cho bàn làm việc.",
+        "price": 150000,
+        "image": "/images/kem/kem20.jpg",
+        "store_id": 8
+      },
+      {
+        "id": 18,
+        "name": "Hoa len trang trí bàn",
+        "description": "Hoa len trang trí bàn làm việc hoặc phòng ngủ, bền đẹp.",
+        "price": 160000,
+        "image": "/images/kem/kem21.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 19,
+        "name": "Túi xách len sáng màu",
+        "description": "Túi xách sáng màu, phù hợp với mọi phong cách thời trang.",
+        "price": 220000,
+        "image": "/images/kem/kem22.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 20,
+        "name": "Bó hoa len cho bàn",
+        "description": "Bó hoa len nhỏ gọn, dễ thương, dành cho bàn làm việc hoặc góc nhỏ.",
+        "price": 80000,
+        "image": "/images/kem/kem23.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 21,
+        "name": "Túi xách len mùa hè",
+        "description": "Túi xách len mùa hè nhẹ nhàng, dễ phối đồ.",
+        "price": 180000,
+        "image": "/images/kem/kem24.jpg",
+        "store_id": 2
+      },
+      {
+        "id": 22,
+        "name": "Móc khóa len hình thú lớn",
+        "description": "Móc khóa len lớn với hình thú đáng yêu, tạo điểm nhấn cho túi xách.",
+        "price": 55000,
+        "image": "/images/kem/kem25.jpg",
+        "store_id": 3
+      },
+      {
+        "id": 23,
+        "name": "Cây thông kẽm nhung lớn",
+        "description": "Cây thông kẽm nhung lớn, phù hợp trang trí phòng khách dịp Giáng Sinh.",
+        "price": 300000,
+        "image": "/images/kem/kem26.jpg",
+        "store_id": 3
+      },
+      {
+        "id": 24,
+        "name": "Lồng đèn kẽm nhung đa sắc",
+        "description": "Lồng đèn kẽm nhung đa sắc màu, phù hợp với mọi dịp lễ hội.",
+        "price": 200000,
+        "image": "/images/kem/kem27.jpg",
+        "store_id": 4
+      },
+      {
+        "id": 25,
+        "name": "Hoa hồng nhung mini",
+        "description": "Hoa hồng mini làm từ kẽm nhung, thích hợp làm quà tặng cho bạn bè.",
+        "price": 120000,
+        "image": "/images/kem/kem28.jpg",
+        "store_id": 5
+      },
+      {
+        "id": 26,
+        "name": "Mũ len cho trẻ sơ sinh",
+        "description": "Mũ len cho trẻ sơ sinh mềm mại và ấm áp cho mùa đông.",
+        "price": 130000,
+        "image": "/images/kem/kem29.jpg",
+        "store_id": 6
+      },
+      {
+        "id": 27,
+        "name": "Áo len cho bé gái",
+        "description": "Áo len mềm mại cho bé gái, giúp bé luôn ấm áp trong mùa lạnh.",
+        "price": 140000,
+        "image": "/images/kem/kem30.jpg",
+        "store_id": 7
+      },
+      {
+        "id": 28,
+        "name": "Túi xách len phong cách",
+        "description": "Túi xách len phong cách vintage, dễ dàng phối với nhiều trang phục.",
+        "price": 250000,
+        "image": "/images/kem/kem31.jpg",
+        "store_id": 8
+      },
+      {
+        "id": 29,
+        "name": "Hoa len trang trí bàn làm việc",
+        "description": "Hoa len đẹp mắt, trang trí bàn làm việc thêm phần sinh động.",
+        "price": 160000,
+        "image": "/images/kem/kem32.jpg",
+        "store_id": 1
+      },
+      {
+        "id": 30,
+        "name": "Cây thông kẽm nhung mini",
+        "description": "Cây thông nhỏ nhắn dễ thương, làm quà tặng cho dịp lễ hội.",
+        "price": 140000,
+        "image": "/images/kem/kem33.jpg",
+        "store_id": 2
+      },
+      {
+        "id": 31,
+        "name": "Bó hoa len nhỏ xinh",
+        "description": "Bó hoa len nhỏ xinh, phù hợp làm quà tặng cho người thân yêu.",
+        "price": 85000,
+        "image": "/images/kem/kem34.jpg",
+        "store_id": 3
+      },
+      {
+        "id": 32,
+        "name": "Túi xách len cho mùa thu",
+        "description": "Túi xách len cho mùa thu, phong cách cổ điển, dễ dàng kết hợp với mọi trang phục.",
+        "price": 240000,
+        "image": "/images/kem/kem35.jpg",
+        "store_id": 4
+      },
+      {
+        "id": 33,
+        "name": "Móc khóa len xinh xắn",
+        "description": "Móc khóa len với họa tiết hoa văn, cực kỳ dễ thương và làm quà tặng tuyệt vời.",
+        "price": 45000,
+        "image": "/images/kem/kem36.jpg",
+        "store_id": 5
+      },
+      {
+        "id": 34,
+        "name": "Hoa kẽm nhung đỏ",
+        "description": "Hoa kẽm nhung đỏ rực rỡ, tạo điểm nhấn cho mọi không gian.",
+        "price": 120000,
+        "image": "/images/kem/kem37.jpg",
+        "store_id": 6
+      },
+      {
+        "id": 35,
+        "name": "Bó hoa len trắng",
+        "description": "Bó hoa len trắng thanh thoát, phù hợp trang trí nhà cửa.",
+        "price": 95000,
+        "image": "/images/kem/kem38.jpg",
+        "store_id": 7
+      }
+    ],
+  
+  "categories": [
+    {
+      "id": 1,"name": "Hoa làm từ kẽm nhung", "image": "/images/kem/senhong.jpg"
+
+    },
+    {
+      "id": 2,"name": "Vòng tay, trang sức","image": "/images/vong/vong5.jpg"
+    },
+    {
+      "id": 3,"name": "Sản phẩm len",     "image": "/images/len/moc10.jpg"
+    },
+    {
+      "id": 4,"name": "Móc khóa len, túi xách",        "image": "/images/len/moc8.jpg"
+    },
+    {
+      "id": 5,"name": "Lồng đèn, đồ chơi trẻ em",        "image": "/images/treem/tt8.jpg"
+    },
+    {
+      "id": 6,"name": "Trang trí giáng sinh"  ,      "image": "/images/kem/noel4.jpg"
+
+    },
+    {
+      "id": 7,"name": "Hàng đất sét khô"     ,   "image": "/images/datset/set11.jpg"
+    },
+    {
+      "id": 8,"name": "Trang trí nhà cửa",        "image": "/images/kem/kem39.jpg"
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "image": "/images/kem/bo15.jpg",
+      "owner": "Nguyễn Văn A",
+      "store_name": "Gian hàng Handmade A",
+      "description": "Chuyên cung cấp hoa làm từ kẽm nhung và các sản phẩm len.",
+      "products": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+    },
+    {
+      "id": 2,
+      "image": "/images/treem/tre.jpg",
+      "owner": "Trần Thị B",
+      "store_name": "Gian hàng B",
+      "description": "Gian hàng với các sản phẩm handmade cho trẻ em và trang trí nhà cửa.",
+      "products": [18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]
+    },
+    {
+      "id": 3,
+      "image": "/images/kem/tet7.jpg",
+      "owner": "Nguyễn Văn C",
+      "store_name": "Gian hàng Handmade C",
+      "description": "Chuyên cung cấp các sản phẩm trang trí dịp lễ tết.",
+      "products": [33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50]
+    },
+    {
+      "id": 4,
+      "image": "/images/datset/set32.jpg",
+
+      "owner": "Trần Thị D",
+      "store_name": "Gian hàng D",
+      "description": "Gian hàng với các sản phẩm về đất sét.",
+      "products": [51,52,53,54,55,56,57,58,59,60,61,62, 63,64,65,66]
+    },
+    {
+      "id": 5,
+      "image": "/images/datset/set27.jpg",
+
+      "owner": "Nguyễn Văn E",
+      "store_name": "Gian hàng Handmade E",
+      "description": "Chuyên cung cấp các quà tặng.",
+      "products": [67,68,69,70,71,72,73,74,75,76,77,78,79,80]
+    },
+    {
+      "id": 6,
+      "image": "/images/kem/noel6.jpg",
+
+      "owner": "Trần Thị F",
+      "store_name": "Gian hàng F",
+      "description": "Gian hàng với các sản phẩm handmade cho dịp giáng sinh và trang trí nhà cửa.",
+      "products": [81,82,83,84,85,86,87,88,89,90,91,92,93]
+    },
+    {
+      "id": 7,
+      "image": "/images/vong/vong5.jpg",
+      "owner": "Nguyễn Văn G",
+      "store_name": "Gian hàng Handmade G",
+      "description": "Các sản phẩm như vòng tay.",
+      "products": [94,95,96,97,98,99,100,101,102,103,104]
+    },
+    {
+      "id": 8,
+      "image": "/images/tuixach/tui11.jpg",
+      "owner": "Trần Thị H",
+      "store_name": "Gian hàng H",
+      "description": "Gian hàng với các loại túi xách.",
+      "products": [105,106,107,108,109,110,111,112,113,114]
+    }
+  ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Hoa Tulip",
+        "description": "Hoa tulip kẽm nhung hồng rực rỡ.",
+        "price": 100000,
+        "stock": 20,
+        "rating": 4.5,
+        "image": "/images/kem/kem1.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Hoa tulip vàng kẽm",
+        "description": "Hoa cúc vàng làm từ kẽm nhung, dễ dàng tạo điểm nhấn cho bàn làm việc.",
+        "price": 90000,
+        "stock": 15,
+        "rating": 4.3,
+        "image": "/images/kem/kem2.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 3,
+        "name": "Tulip",
+        "description": "Tulip xanh dương, thích hợp trang trí nhà cửa.",
+        "price": 120000,
+        "stock": 10,
+        "rating": 4.7,
+        "image": "/images/kem/kem3.1.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 4,
+        "name": "Hoa lục bình",
+        "description": "Giản dị nhưng mà khá hợp với trang trí nhà cửa",
+        "price": 150000,
+        "stock": 8,
+        "rating": 4.6,
+        "image": "/images/kem/kem6.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 5,
+        "name": "Hoa Cúc",
+        "description": "Cúc vàng siêu tỏa nắng trang trí phòng siêu đẹp.",
+        "price": 50000,
+        "stock": 50,
+        "rating": 4.8,
+        "image": "/images/kem/kem4.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 6,
+        "name": "Hoa huệ",
+        "description": " phù hợp trang trí dịp lễ.",
+        "price": 150000,
+        "stock": 12,
+        "rating": 4.4,
+        "image": "/images/kem/kem9.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 7,
+        "name": "Hoa cúc nhỏ ",
+        "description": "hoa cúc nhỏ nhỏ rất đẹp hợp cho trang trí nhà cửa ",
+        "price": 250000,
+        "stock": 5,
+        "rating": 4.9,
+        "image": "/images/kem/kem8.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 8,
+        "name": "Hoa cúc hồng",
+        "description": "Hoa cúc hồng nhẹ nhàng thích hợp trang trí nhà cửa.",
+        "price": 180000,
+        "stock": 18,
+        "rating": 4.7,
+        "image": "/images/kem/kem10.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 9,
+        "name": "Hoa cúc",
+        "description": "hoa màu xanh be bé rất đẹp.",
+        "price": 200000,
+        "stock": 10,
+        "rating": 4.6,
+        "image": "/images/kem/kem12.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 10,
+        "name": "Hoa súng",
+        "description": "Đơn giản mà siêu đẹp nhé.",
+        "price": 300000,
+        "stock": 7,
+        "rating": 4.8,
+        "image": "/images/kem/kem13.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 11,
+        "name": "Hoa kẽm",
+        "description": "Hoa làm từ kẽm nhung, nhẹ nhàng và thanh thoát.",
+        "price": 110000,
+        "stock": 20,
+        "rating": 4.5,
+        "image": "/images/kem/kem16.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 12,
+        "name": "Hoa cúc vàng kẽm",
+        "description": "Hoa cúc vàng từ kẽm nhung, dễ chăm sóc và bền bỉ.",
+        "price": 95000,
+        "stock": 30,
+        "rating": 4.3,
+        "image": "/images/kem/kem15.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 13,
+        "name": "Bông lúa vàng",
+        "description": "Bông lúa đơn giản mộc mạc.",
+        "price": 125000,
+        "stock": 12,
+        "rating": 4.6,
+        "image": "/images/kem/kem19.1.jpg",
+        "category_id": 1,
+        "store_id": 1
+      },
+      {
+        "id": 14,
+        "name": "Áo len",
+        "description": "Áo len ấm áp, vừa vặn và thoải mái.",
+        "price": 160000,
+        "stock": 8,
+        "rating": 4.7,
+        "image": "/images/len/ao1.jpg",
+        "category_id": 3,
+        "store_id": 1
+      },
+      {
+        "id": 15,
+        "name": "áo len",
+        "description": "áo len dễ thương, phong cách đáng yêu.",
+        "price": 45000,
+        "stock": 45,
+        "rating": 4.9,
+        "image": "/images/len/ao2.jpg",
+        "category_id": 3,
+        "store_id": 1
+      },
+      {
+        "id": 16,
+        "name": "áo len",
+        "description": "mát mẻ có thể mặc đi dạo đi biển.",
+        "price": 120000,
+        "stock": 20,
+        "rating": 4.5,
+        "image": "/images/len/ao6.jpg",
+        "category_id": 3,
+        "store_id": 1
+      },
+      {
+        "id": 17,
+        "name": "áo len",
+        "description": "mát mẻ siêu dễ thương.",
+        "price": 150000,
+        "stock": 15,
+        "rating": 4.6,
+        "image": "/images/len/ao11.jpg",
+        "category_id": 3,
+        "store_id": 1
+      },
+      {
+        "id": 18,
+        "name": "bé heo cute",
+        "description": "Bé heo siêu cute.",
+        "price": 160000,
+        "stock": 10,
+        "rating": 4.7,
+        "image": "/images/treem/tre.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 19,
+        "name": "Bé heo",
+        "description": "bé heo siêu dễ thương.",
+        "price": 220000,
+        "stock": 5,
+        "rating": 4.8,
+        "image": "/images/treem/tre2.jpg",
+        "category_id": 4,
+        "store_id": 1
+      },
+      {
+        "id": 20,
+        "name": "bé Vịt",
+        "description": "bé vịt dễ thương từ kẽm nhung",
+        "price": 80000,
+        "stock": 25,
+        "rating": 4.7,
+        "image": "/images/treem/tre3.jpg",
+        "category_id": 1,
+        "store_id": 2
+      },
+      {
+        "id": 21,
+        "name": "bó hoa bé",
+        "description": "hoa bé làm từ kẽm nhung.",
+        "price": 180000,
+        "stock": 12,
+        "rating": 4.6,
+        "image": "/images/treem/tre5.jpg",
+        "category_id": 1,
+        "store_id": 2
+      },
+      {
+        "id": 22,
+        "name": "bó hoa bé",
+        "description": "bó hoa bé kẻm nhung xinh xắn ",
+        "price": 55000,
+        "stock": 30,
+        "rating": 4.7,
+        "image": "/images/treem/tre6.jpg",
+        "category_id": 1,
+        "store_id": 2
+      },
+      {
+        "id": 23,
+        "name": "Bó hoa bé",
+        "description": "Bó hoa bé.",
+        "price": 300000,
+        "stock": 6,
+        "rating": 5.0,
+        "image": "/images/treem/tre7.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 24,
+        "name": "Hoa bé",
+        "description": "Hoa bé.",
+        "price": 200000,
+        "stock": 10,
+        "rating": 4.8,
+        "image": "/images/treem/tre8.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 25,
+        "name": "Hoa  mini",
+        "description": "Hoa mini làm từ kẽm nhung, thích hợp làm quà tặng cho bạn bè.",
+        "price": 120000,
+        "stock": 25,
+        "rating": 4.5,
+        "image": "/images/treem/tre9.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 26,
+        "name": "Mũ len cho trẻ sơ sinh",
+        "description": "Mũ len cho trẻ sơ sinh mềm mại và ấm áp cho mùa đông.",
+        "price": 130000,
+        "stock": 18,
+        "rating": 4.6,
+        "image": "/images/treem/tre10.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 27,
+        "name": "Áo len cho bé gái",
+        "description": "Áo len mềm mại cho bé gái, giúp bé luôn ấm áp trong mùa lạnh.",
+        "price": 140000,
+        "stock": 10,
+        "rating": 4.6,
+        "image": "/images/treem/tre11.jpg",
+        "category_id": 4,
+        "store_id": 2
+      },
+      {
+        "id": 28,
+        "name": "Hoa bé ",
+        "description": "Hoa bé .",
+        "price": 250000,
+        "stock": 8,
+        "rating": 4.9,
+        "image": "/images/treem/tre12.jpg",
+        "category_id": 8,
+        "store_id": 8
+      },
+      {
+        "id": 29,
+        "name": "Đèn trang trí phòng ngủ",
+        "description": "Trang trí phòng ngủ siêu diệu.",
+        "price": 160000,
+        "stock": 20,
+        "rating": 4.8,
+        "image": "/images/treem/tt1.jpg",
+        "category_id": 5,
+        "store_id": 2
+      },
+      {
+        "id": 30,
+        "name": "Đèn trang tri",
+        "description": "Đèn siêu dễ thương dành cho các bé.",
+        "price": 140000,
+        "stock": 18,
+        "rating": 4.6,
+        "image": "/images/treem/tt2.jpg",
+        "category_id": 5,
+        "store_id": 2
+      },
+      {
+        "id": 31,
+        "name": "Đèn con cá vàng",
+        "description": "Rất thích hợp trang trí phòng.",
+        "price": 85000,
+        "stock": 35,
+        "rating": 4.7,
+        "image": "/images/treem/tt3.jpg",
+        "category_id": 5,
+        "store_id": 3
+      }, 
+      {
+        "id": 32,
+        "name": "Đèn bông hoa",
+        "description": "Một màu hồng nhẹ nhàng cho phòng thơ mộng.",
+        "price": 230000,
+        "stock": 9,
+        "rating": 4.8,
+        "image": "/images/treem/tt4.jpg",
+        "category_id": 5,
+        "store_id": 4
+      },
+      {
+        "id": 33,
+        "name": "Lồng đèn gấu trúc",
+        "description": "Lồng đèn gấu trúc siêu dễ thương.",
+        "price": 45000,
+        "stock": 40,
+        "rating": 4.5,
+        "image": "/images/treem/tt8.jpg",
+        "category_id": 5,
+        "store_id": 3
+      },
+      {
+        "id": 34,
+        "name": "Lồng đèn con cá",
+        "description": "Lồng đèn con cá vàng cute.",
+        "price": 120000,
+        "stock": 25,
+        "rating": 4.7,
+        "image": "/images/treem/tt7.jpg",
+        "category_id": 5,
+        "store_id": 3
+      },
+      {
+        "id": 35,
+        "name": "Lồng đèn bông hoa",
+        "description": "Những lồng đèn bông hoa sặc sỡ.",
+        "price": 95000,
+        "stock": 30,
+        "rating": 4.5,
+        "image": "/images/treem/tt6.jpg",
+        "category_id": 5,
+        "store_id": 3
+      },
+      {
+        "id": 36,
+        "name": "Lồng đèn thỏ",
+        "description": "Lồng đèn những chủ thỏ con đáng yêu.",
+        "price": 210000,
+        "stock": 15,
+        "rating": 4.6,
+        "image": "/images/treem/tt5.jpg",
+        "category_id": 8,
+        "store_id": 3
+      },
+      {
+        "id": 37,
+        "name": "Lồng đèn kẽm nhung cho phòng ngủ",
+        "description": "Lồng đèn kẽm nhung nhẹ nhàng, tạo không gian ấm áp cho phòng ngủ.",
+        "price": 180000,
+        "stock": 18,
+        "rating": 4.6,
+        "image": "/images/treem/tt9.jpg",
+        "category_id": 5,
+        "store_id": 3
+      },
+      {
+        "id": 38,
+        "name": "Chậu mai cả cây",
+        "description": "Chậu mai vàng thích hợp trang trí vào dịp tết.",
+        "price": 95000,
+        "stock": 22,
+        "rating": 4.7,
+        "image": "/images/kem/tet1.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 39,
+        "name": "hoa mai vàng",
+        "description": "Mai vàng cả bình.",
+        "price": 120000,
+        "stock": 17,
+        "rating": 4.8,
+        "image": "/images/kem/tet2.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 40,
+        "name": "Hoa vàng",
+        "description": "hoa vàng kẽm sang trọng, mang lại vẻ đẹp tinh tế cho không gian.",
+        "price": 130000,
+        "stock": 28,
+        "rating": 4.7,
+        "image": "/images/kem/tet3.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 41,
+        "name": "Hoa đào",
+        "description": "Hoa đào phù hợp trang trí các không gian nhỏ.",
+        "price": 140000,
+        "stock": 25,
+        "rating": 4.8,
+        "image": "/images/kem/tet4.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 42,
+        "name": "Hoa mai kẽm nhung",
+        "description": "Những nhành mai cho mùa xuân ấm áp.",
+        "price": 150000,
+        "stock": 22,
+        "rating": 4.6,
+        "image": "/images/kem/tet5.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 43,
+        "name": "Cây quất",
+        "description": "thích hợp trưng bày ngày tết.",
+        "price": 50000,
+        "stock": 40,
+        "rating": 4.8,
+        "image": "/images/kem/tet6.jpg",
+        "category_id": 1,
+        "store_id":3
+      },
+      {
+        "id": 44,
+        "name": "Anh đào ",
+        "description": "Chậu anh đào hồng ngày tết hanhj phúc.",
+        "price": 190000,
+        "stock": 10,
+        "rating": 4.7,
+        "image": "/images/kem/tet7.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 45,
+        "name": "Anh đào đỏ",
+        "description": "Anh đào đỏ ấm áp và dễ chịu.",
+        "price": 170000,
+        "stock": 30,
+        "rating": 4.5,
+        "image": "/images/kem/tet8.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 46,
+        "name": "Hoa len trang trí đám cưới",
+        "description": "Hoa len trang trí đám cưới, tạo không gian lãng mạn và sang trọng.",
+        "price": 200000,
+        "stock": 12,
+        "rating": 4.8,
+        "image": "/images/kem/kem49.jpg",
+        "category_id": 7,
+        "store_id": 3
+      },
+      {
+        "id": 47,
+        "name": "Bình sen trắng",
+        "description": "Bình sen trắng rất hợp trang trí phòng khách.",
+        "price": 220000,
+        "stock": 15,
+        "rating": 5.0,
+        "image": "/images/kem/sentrang.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 48,
+        "name": "Bình sen trắng hồng",
+        "description": "Phù hợp trang trí mọi nơi trong nhà.",
+        "price": 250000,
+        "stock": 7,
+        "rating": 4.9,
+        "image": "/images/kem/sentranghong.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 49,
+        "name": "Chậu hoa kẽm nhung nhỏ",
+        "description": "Chậu hoa kẽm nhung nhỏ, phù hợp trang trí bàn làm việc hoặc góc học tập.",
+        "price": 85000,
+        "stock": 40,
+        "rating": 4.6,
+        "image": "/images/kem/senhong.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 50,
+        "name": "Binhf hoa trang tri tet",
+        "description": "Bình hoa thích hợp trang trí phòng khách.",
+        "price": 350000,
+        "stock": 5,
+        "rating": 5.0,
+        "image": "/images/kem/binh4.jpg",
+        "category_id": 1,
+        "store_id": 3
+      },
+      {
+        "id": 51,
+        "name": "bó hoa làm bằng đất sét siêu đáng yêu",
+        "description": "Làm quaf tặng cho bajn bè .",
+        "price": 95000,
+        "stock": 32,
+        "rating": 4.7,
+        "image": "/images/datset/set1.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 52,
+        "name": "những hình tân cử nhân làm bằng đất sét siêu dễ thương",
+        "description": "Thích hợp làm những món quà cho lễ tốt nghiệp .",
+        "price": 210000,
+        "stock": 15,
+        "rating": 4.8,
+        "image": "/images/datset/set2.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 53,
+        "name": "Bó hoa đất sét xinh xắn",
+        "description": "Bó hoa đất sét xinh xắn, phù hợp làm quà tặng cho các dịp đặc biệt.",
+        "price": 100000,
+        "stock": 20,
+        "rating": 4.5,
+        "image": "/images/datset/set3.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 54,
+        "name": "những em bé hoạt hình cute",
+        "description": "quá dễ thương.",
+        "price": 140000,
+        "stock": 18,
+        "rating": 4.7,
+        "image": "/images/datset/set5.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 55,
+        "name": "Những chú vịt ",
+        "description": "Những chú vịt dễ thương, làm quà tặng cho bạn bè hoặc trang trí.",
+        "price": 40000,
+        "stock": 50,
+        "rating": 4.6,
+        "image": "/images/datset/set6.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 56,
+        "name": "Những chiếc bánh mini",
+        "description": "những chiếc bánh mini có thẻ dùng làm quà tặng.",
+        "price": 120000,
+        "stock": 22,
+        "rating": 4.8,
+        "image": "/images/datset/set7.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 57,
+        "name": "Bé người tuyết mini",
+        "description": "Bé người tuyết mini siêu đáng yêu ",
+        "price": 180000,
+        "stock": 14,
+        "rating": 4.7,
+        "image": "/images/datset/set9.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 58,
+        "name": "bé mây",
+        "description": "những bé mây làm bằng đáat sét",
+        "price": 210000,
+        "stock": 10,
+        "rating": 4.8,
+        "image": "/images/datset/set10.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 59,
+        "name": "Những em bé tân cử nhân cute",
+        "description": " Thích hợp cho những buổi tốt nghiệp.",
+        "price": 190000,
+        "stock": 20,
+        "rating": 4.7,
+        "image": "/images/datset/set28.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 60,
+        "name": "Những em bé cute",
+        "description": "Phù hợp cho những ngày lễ tốt nghiệp.",
+        "price": 120000,
+        "stock": 22,
+        "rating": 4.6,
+        "image": "/images/datset/set31.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 61,
+        "name": "Hoạt hình cute",
+        "description": "tuyệt vời.",
+        "price": 130000,
+        "stock": 18,
+        "rating": 4.8,
+        "image": "/images/datset/set27.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 62,
+        "name": "Bó hoa len mini",
+        "description": "Bó hoa len mini, dễ thương và phù hợp làm quà tặng cho các dịp lễ.",
+        "price": 95000,
+        "stock": 25,
+        "rating": 4.6,
+        "image": "/images/datset/set29.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 63,
+        "name": "Bác sĩ cute",
+        "description": "cho 1 bác sĩ tương lai.",
+        "price": 280000,
+        "stock": 10,
+        "rating": 4.9,
+        "image": "/images/datset/set24.jpg",
+        "category_id":7,
+        "store_id": 4
+      },
+      {
+        "id": 64,
+        "name": "bình hoa mini",
+        "description": "Bình hoa mini siêu đẹp.",
+        "price": 220000,
+        "stock": 14,
+        "rating": 4.8,
+        "image": "/images/datset/set21.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 65,
+        "name": "Bé heo",
+        "description": "Những em bé heo cute",
+        "stock": 35,
+        "rating": 4.9,
+        "image": "/images/datset/set16.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 66,
+        "name": "chiếc bánh sinh nhật mini",
+        "description": "Bánh sinh nhật siu đáng yêu.",
+        "price": 210000,
+        "stock": 18,
+        "rating": 4.7,
+        "image": "/images/datset/set36.jpg",
+        "category_id": 7,
+        "store_id": 4
+      },
+      {
+        "id": 67,
+        "name": "1 chiếc khung hình mini",
+        "description": "Khung hình mini làm bằng đất set.",
+        "price": 150000,
+        "stock": 12,
+        "rating": 4.8,
+        "image": "/images/datset.jpg",
+        "category_id": 7,
+        "store_id": 5
+      },
+      {
+        "id": 68,
+        "name": "Những bông hoa mini",
+        "description": "Bông hoa mini cute.",
+        "price": 250000,
+        "stock": 9,
+        "rating": 4.9,
+        "image": "/images/datset/set18.jpg",
+        "category_id": 7,
+        "store_id": 5
+      },
+      {
+        "id": 69,
+        "name": "Bó hoa len",
+        "description": "Bó hoa len thích hợp làm qua tặng",
+        "price": 110000,
+        "stock": 24,
+        "rating": 4.7,
+        "image": "/image/len/lenbo1.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 70,
+        "name": "Bó hoa len",
+        "description": "Bó hoa len siêu đẹp.",
+        "price": 300000,
+        "stock": 6,
+        "rating": 4.9,
+        "image": "/images/len/lenbo11.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 71,
+        "name": "Bó hoa len",
+        "description": "Bó hoa tinh tế và sang trọng cho các buổi tiệc.",
+        "price": 150000,
+        "stock": 20,
+        "rating": 4.8,
+        "image": "/images/len/lenbo27.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 72,
+        "name": "hoa len cả bó",
+        "description": "Hoa len.",
+        "price": 280000,
+        "stock": 12,
+        "rating": 5.0,
+        "image": "/images/len/lenbo24.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 73,
+        "name": "Hoa hồng đỏ tươi",
+        "description": "Hoa hồng đỏ tươi, làm từ len, đẹp rực rỡ và mang ý nghĩa tình yêu mãnh liệt.",
+        "price": 135000,
+        "stock": 28,
+        "rating": 4.9,
+        "image": "/images/len/lenbo25.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 74,
+        "name": "nhành hồng xanh ",
+        "description": "Nhành hồng siêu đẹp.",
+        "price": 110000,
+        "stock": 30,
+        "rating": 4.7,
+        "image": "/images/len/nhanh3.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 75,
+        "name": "Nhành hoa",
+        "description": "Nhành hoa tuyệt đẹp.",
+        "price": 200000,
+        "stock": 25,
+        "rating": 4.6,
+        "image": "/images/len/nhanh5.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 76,
+        "name": "nhành hoa",
+        "description": "nhành hoa hồng tím",
+        "price": 250000,
+        "stock": 10,
+        "rating": 5.0,
+        "image": "/images/len/nhanh6.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 77,
+        "name": "Quà tặng cute",
+        "description": "Những chiếc bánh sinh nhật mini làm từ kẽm ",
+        "price": 140000,
+        "stock": 26,
+        "rating": 4.8,
+        "image": "/images/kem/banhsn1.jpg",
+        "category_id": 1,
+        "store_id": 5
+      },
+      {
+        "id": 78,
+        "name": "Quà tặng minimini",
+        "description": "Những chiếc bánh sinh nhật mini làm từ kẽm.",
+        "price": 260000,
+        "stock": 9,
+        "rating": 4.9,
+        "image": "/images/kem/banhsn2.jpg",
+        "category_id": 3,
+        "store_id": 5
+      },
+      {
+        "id": 79,
+        "name": "Quà tặng mini.",
+        "description": "Những chiếc bánh sinh nhật mini làm từ kẽm.",
+        "price": 350000,
+        "stock": 8,
+        "rating": 5.0,
+        "image": "/images/kem/banhsn3.jpg",
+        "category_id": 1 ,
+        "store_id": 5 
+      },
+      {
+        "id": 80,
+        "name": "Bánh sinh nhật minimini",
+        "description": "Những chiếc bánh sinh nhật mini làm từ kẽm.",
+        "price": 160000,
+        "stock": 15,
+        "rating": 4.7,
+        "image": "/images/kem/banhsn4.jpg",
+        "category_id": 1 ,
+        "store_id": 5
+      },
+      {
+        "id": 81,
+        "name": "Cây thông giáng sinhsinh",
+        "description": "Cây thông giáng sinh siêu đẹp.",
+        "price": 45000,
+        "stock": 50,
+        "rating": 4.8,
+        "image": "/images/kem/noel1.jpg",
+        "category_id": 6 ,
+        "store_id": 6
+      },
+      {
+        "id": 82,
+        "name": "Cây thôngthông",
+        "description": "Cây thông giáng sinh bằng kẽm nhungnhung.",
+        "price": 140000,
+        "stock": 18,
+        "rating": 4.8,
+        "image": "/images/kem/noel2.jpg",
+        "category_id": 6 ,
+        "store_id": 6
+      },
+      {
+        "id": 83,
+        "name": "Cây thông giáng sinhsinh",
+        "description": "Cây thông giáng sinh làm từ kẽm nhung .",
+        "price": 220000,
+        "stock": 10,
+        "rating": 4.9,
+        "image": "/images/kem/noel3.jpg",
+        "category_id": 6 ,
+        "store_id": 6 
+      },
+      {
+        "id": 84,
+        "name": "Quà tặng giáng sinh ",
+        "description": "Quà tặng siêu cute cho mùa giáng sinh .",
+        "price": 250000,
+        "stock": 12,
+        "rating": 5.0,
+        "image": "/images/kem/noel4.jpg",
+        "category_id": 6 ,
+        "store_id": 6 
+      },
+      {
+        "id": 85,
+        "name": "Cây thông kẽm nhung đậm sắc mùa giáng sinh",
+        "description": "Cây thông kẽm nhung đậm sắc, trang trí cho mùa Giáng Sinh thêm phần sinh động.",
+        "price": 300000,
+        "stock": 7,
+        "rating": 4.9,
+        "image": "/images/kem/noel5.jpg",
+        "category_id": 6,
+        "store_id": 6 
+      },
+      {
+        "id": 86,
+        "name": "Hoa kẽm nhung đậm sắc",
+        "description": "Hoa kẽm nhung đậm sắc, thích hợp trang trí cho phòng khách hoặc làm quà tặng.",
+        "price": 150000,
+        "stock": 28,
+        "rating": 4.8,
+        "image": "/images/kem/noel7.jpg",
+        "category_id": 6 ,
+        "store_id":  6 
+      },
+      {
+        "id": 87,
+        "name": "Cây thông ",
+        "description": "Cây thông giáng sinh cho 1 giáng sinh vui vẻ.",
+        "price": 240000,
+        "stock": 15,
+        "rating": 4.7,
+        "image": "/images/kem/noel8.jpg",
+        "category_id": 6 ,
+        "store_id": 6 
+      },
+      {
+        "id": 88,
+        "name": "Hoa len mini cho bàn làm việc",
+        "description": "Hoa len mini, dễ thương và thích hợp trang trí bàn làm việc hoặc góc học tập.",
+        "price": 70000,
+        "stock": 40,
+        "rating": 4.6,
+        "image": "/images/kem/noel9.jpg",
+        "category_id": 6 ,
+        "store_id": 6 
+      },
+      {
+        "id": 89,
+        "name": "giáng sinh ",
+        "description": "món quà giáng sinh và làm quà tặng tuyệt vời.",
+        "price": 45000,
+        "stock": 50,
+        "rating": 4.7,
+        "image": "/images/kem/noel11.jpg",
+        "category_id": 6 ,
+        "store_id":  6 
+      },
+      {
+        "id": 90,
+        "name": "Cây thông kẽm nhung mini cho bàn",
+        "description": "Cây thông kẽm nhung mini, phù hợp trang trí bàn làm việc trong dịp Giáng Sinh.",
+        "price": 140000,
+        "stock": 20,
+        "rating": 4.6,
+        "image": "/images/kem/thong5.jpg",
+        "category_id": 6,
+        "store_id": 6
+      },
+      {
+        "id": 91,
+        "name": "cây thông dễ thương",
+        "description": "cây thông màu hồng siêu dễ thương.",
+        "price": 130000,
+        "stock": 25,
+        "rating": 4.8,
+        "image": "/images/kem/thong4.jpg",
+        "category_id":  6 ,
+        "store_id":  6 
+      },
+      {
+        "id": 92,
+        "name": "Cây thông nhung",
+        "description": "thích hợp làm quà tặng.",
+        "price": 150000,
+        "stock": 28,
+        "rating": 4.9,
+        "image": "/images/kem/thong7.jpg",
+        "category_id":  6 ,
+        "store_id":  6 
+      },
+      {
+        "id": 93,
+        "name": "cây thông  dễ thương",
+        "description": "cây thông với thiết kế cực kỳ dễ thương, làm quà tặng hay trang trí.",
+        "price": 35000,
+        "stock": 60,
+        "rating": 4.6,
+        "image": "/images/kem/thong3.jpg",
+        "category_id": 2  ,
+        "store_id":  6 
+      },
+      {
+        "id": 94,
+        "name": "Vòng tay",
+        "description": "Bó hoa len tươi thắm, thích hợp làm quà tặng cho dịp Tết Nguyên Đán.",
+        "price": 180000,
+        "stock": 12,
+        "rating": 5.0,
+        "image": "/images/vong/vong1.jpg",
+        "category_id": 2 ,
+        "store_id": 2
+      },
+      {
+        "id": 95,
+        "name": "Vòng tay",
+        "description": "Túi xách len nữ tính, thiết kế đơn giản nhưng nổi bật, phù hợp cho các cô nàng công sở.",
+        "price": 210000,
+        "stock": 13,
+        "rating": 4.8,
+        "image": "/images/vong/vong2.jpg",
+        "category_id":2 ,
+        "store_id":8
+      },
+      {
+        "id": 96,
+        "name": "Vòng tay",
+        "description": "Túi xách len nữ tính, thiết kế đơn giản nhưng nổi bật, phù hợp cho các cô nàng công sở.",
+        "price": 210000,
+        "stock": 13,
+        "rating": 4.8,
+        "image": "/images/vong/vong3.jpg",
+        "category_id": 2 ,
+        "store_id": 3
+      },
+      {
+        "id": 97,
+        "name": "Vòng tay",
+        "description": "Bó hoa len chúc mừng năm mới, mang đến sự tươi vui và phúc lộc cho gia đình.",
+        "price": 200000,
+        "stock": 10,
+        "rating": 5.0,
+        "image": "/images/vong/vong4.jpg",
+        "category_id": 2 ,
+        "store_id": 4
+      },
+      {
+        "id": 98,
+        "name": "Vòng tay",
+        "description": "Cây thông kẽm nhung lấp lánh, phù hợp trang trí trong các dịp lễ lớn như Giáng Sinh.",
+        "price": 350000,
+        "stock": 8,
+        "rating": 5.0,
+        "image": "/images/vong/vong12.jpg",
+        "category_id": 2 ,
+        "store_id": 5
+      },
+      {
+        "id": 99,
+        "name": "Vòng tay",
+        "description": "Lồng đèn kẽm nhung sang trọng, trang trí lý tưởng cho những bữa tiệc đêm.",
+        "price": 250000,
+        "stock": 15,
+        "rating": 4.9,
+        "image": "/images/vong/vong6.jpg",
+        "category_id": 2 ,
+        "store_id": 6
+      },
+      {
+        "id": 100,
+        "name": "Vòng tay",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/vong7.jpg",
+        "category_id": 2 ,
+        "store_id": 7
+      },
+      {
+        "id": 101 ,
+        "name": "Vòng tay",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/vong8.jpg",
+        "category_id": 2 ,
+        "store_id": 7
+      },
+      {
+        "id": 102 ,
+        "name": "Vòng tay",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/vong9.jpg",
+        "category_id": 2 ,
+        "store_id": 7
+      },
+      {
+        "id": 103 ,
+        "name": "Vòng tay",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/vong10.jpg",
+        "category_id":  2 ,
+        "store_id": 7
+      },
+      {
+        "id": 104 ,
+        "name": "Vòng tay",
+        "description": "túi  len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu5.jpg",
+        "category_id":  3  ,
+        "store_id": 7
+      },
+      {
+        "id": 105 ,
+        "name": "Phụ kiện ",
+        "description": "khăn len .",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu4.jpg",
+        "category_id": 3 ,
+        "store_id": 8 
+      },
+      {
+        "id": 106 ,
+        "name": "Phụ kiện ",
+        "description": "nón cute ",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu8.jpg",
+        "category_id": 3 ,
+        "store_id": 8 
+      },
+      {
+        "id": 107 ,
+        "name": "Phụ kiện ",
+        "description": "Nón em bé .",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu12.jpg",
+        "category_id": 3 ,
+        "store_id": 8 
+      },
+      {
+        "id": 108 ,
+        "name": "Phụ kiện ",
+        "description": "giày em bé .",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu13.jpg",
+        "category_id": 3 ,
+        "store_id":8 
+      },
+      {
+        "id": 109 ,
+        "name": "Phụ kiện ",
+        "description": "túi đựng laptop",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu10.jpg",
+        "category_id": 4,
+        "store_id": 8 
+      },
+      {
+        "id": 110 ,
+        "name": "Phụ kiện ",
+        "description": "nón em bé .",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/vong/phu9.jpg",
+        "category_id": 4,
+        "store_id":  8 
+      },
+      {
+        "id": 111 ,
+        "name": "Phụ kiện ",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/kem/kem102.jpg",
+        "category_id": 4,
+        "store_id": 8 
+      },
+      {
+        "id": 112 ,
+        "name": "Phụ kiện ",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/kem/kem102.jpg",
+        "category_id": 4,
+        "store_id": 8 
+      },
+      {
+        "id": 113 ,
+        "name": "Phụ kiện ",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/kem/kem102.jpg",
+        "category_id": 4,
+        "store_id": 8 
+      },
+      {
+        "id": 114 ,
+        "name": "Phụ kiện ",
+        "description": "Móc khóa len handmade, cực kỳ dễ thương và phù hợp làm quà tặng bạn bè.",
+        "price": 40000,
+        "stock": 45,
+        "rating": 4.8,
+        "image": "/images/kem/kem102.jpg",
+        "category_id": 3 ,
+        "store_id": 8 
+      }
+     
+      
+    ],
+    "store_owners": [
+  {
+    "id": 1,
+    "username": "nguyenvana",
+    "password": "123456", 
+    "store_id": 1
+  },
+  {
+    "id": 2,
+    "username": "tranthib",
+    "password": "password123", 
+    "store_id": 2
+  },
+  {
+    "id": 3,
+    "username": "nguyenvanc",
+    "password": "12345678", 
+    "store_id": 3
+  },
+  {
+    "id": 4,
+    "username": "nguyenvand",
+    "password": "123456", 
+    "store_id": 1
+  },
+  {
+    "id": 5,
+    "username": "tranthie",
+    "password": "password123", 
+    "store_id": 2
+  },
+  {
+    "id": 6,
+    "username": "nguyenvanf",
+    "password": "12345678", 
+    "store_id": 3
+  },
+  {
+    "id": 7,
+    "username": "nguyenvang",
+    "password": "123456", 
+    "store_id": 1
+  },
+  {
+    "id": 8,
+    "username": "tranthib",
+    "password": "password123", 
+    "store_id": 2
+  }
+]
+}
+  
+  
+  
+       
+  
+  
+
+
+

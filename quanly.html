@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý sản phẩm</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="./images/logo1.jpg">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+    <header class=" text-white p-3">
+        <h1 class="text-center">Quản lý sản phẩm</h1>
+    </header>
+    <header class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center">
+                <a class="navbar-brand d-flex align-items-center" href="#">
+                    <img src="./images/HANDMADE-removebg-preview-removebg-preview.png" alt="logo" height="80" class="me-3">
+                    <h1 class="h4 mb-0">Sàn Thương Mại Handmade TVU</h1>
+                </a>
+                <form class="d-flex" id="searchForm">
+                    <input class="form-control me-2" type="search" id="searchInput" placeholder="Tìm sản phẩm...">
+                    <button class="btn btn-outline-success" type="submit">
+                        <i class="bi bi-search-heart"></i>
+                    </button>
+                </form>
+            </div>
+
+            <nav class="navbar navbar-expand-lg navbar-dark mt-3">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav me-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">
+                                    <i class="bi bi-house-fill"></i> Trang chủ
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="product.html">
+                                    <i class="bi bi-boxes"></i> Sản phẩm
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="shop.html">
+                                    <i class="bi bi-shop"></i> Gian hàng
+                                </a>
+                            </li>
+                        </ul>
+                        <span>         
+                      </span>
+                      
+                      
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main class="container mt-4"id="store-products">
+       
+     <a href="themsp.html"   <button class="btn btn-success mt-3" id="add-product-btn">Thêm sản phẩm mới</button>
+      
+    </main>
+
+    <script src="js/main.js"></script>
+    <script>
+       
+        let products = [];
+let editingProductId = null;
+
+document.addEventListener("DOMContentLoaded", async () => {
+    const owner = JSON.parse(localStorage.getItem("loggedInOwner"));
+    if (!owner) {
+        alert("Bạn cần đăng nhập trước!");
+        window.location.href = "login.html";
+        return;
+    }
+
+    products = await fetchData("products");
+    displayProducts(owner.store_id);
+
+    document.getElementById("add-product-btn").addEventListener("click", () => {
+        showProductForm();
+    });
+
+    document.getElementById("product-form").addEventListener("submit", event => {
+        event.preventDefault();
+        saveProduct(owner.store_id);
+    });
+
+    document.getElementById("cancel-btn").addEventListener("click", hideProductForm);
+});
+
+function displayProducts(storeId) {
+    const storeProducts = products.filter(product => product.store_id === storeId);
+    const container = document.getElementById("store-products");
+    container.innerHTML = "";
+
+    storeProducts.forEach(product => {
+        const productDiv = document.createElement("div");
+        productDiv.innerHTML = `
+            <div class="card mb-3">
+                <div class="card-body">
+                    <img src="${product.image}" class="card-img-top" alt="${product.name}">
+                    <h5 class="card-title">${product.name}</h5>
+                    <p class="card-text">${product.description}</p>
+                    <p><strong>Giá:</strong> ${product.price.toLocaleString()} VNĐ</p>
+                    <a href="suasp.html" class="btn btn-primary" onclick="editProduct(${product.id})">Sửa</a>
+                    <button class="btn btn-danger" onclick="deleteProduct(${product.id})">Xóa</button>
+                </div>
+            </div>
+        `;
+        container.appendChild(productDiv);
+    });
+}
+    displayProducts(storeId);
+
+    </script>
+</body>
+</html>

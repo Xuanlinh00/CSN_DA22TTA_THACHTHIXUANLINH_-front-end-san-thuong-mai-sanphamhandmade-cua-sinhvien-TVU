@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sửa sản phẩm</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Sửa sản phẩm</h1>
+        <form id="edit-product-form" class="mt-4">
+            <div class="mb-3">
+                <label for="product-name" class="form-label">Tên sản phẩm</label>
+                <input type="text" class="form-control" id="product-name" required>
+            </div>
+            <div class="mb-3">
+                <label for="product-description" class="form-label">Mô tả</label>
+                <textarea class="form-control" id="product-description" rows="3" required></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="product-price" class="form-label">Giá</label>
+                <input type="number" class="form-control" id="product-price" required>
+            </div>
+            <div class="mb-3">
+                <label for="product-image" class="form-label">Hình ảnh (URL)</label>
+                <input type="text" class="form-control" id="product-image" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Cập nhật</button>
+            <a href="index.html" class="btn btn-secondary">Quay lại</a>
+        </form>
+    </div>
+
+    <script>
+        const productId = new URLSearchParams(window.location.search).get("id");
+        const products = JSON.parse(localStorage.getItem("products")) || [];
+        const product = products.find(p => p.id == productId);
+
+        if (!product) {
+            alert("Sản phẩm không tồn tại!");
+            window.location.href = "index.html";
+        } else {
+            document.getElementById("product-name").value = product.name;
+            document.getElementById("product-description").value = product.description;
+            document.getElementById("product-price").value = product.price;
+            document.getElementById("product-image").value = product.image;
+        }
+
+        document.getElementById("edit-product-form").addEventListener("submit", event => {
+            event.preventDefault();
+
+            product.name = document.getElementById("product-name").value.trim();
+            product.description = document.getElementById("product-description").value.trim();
+            product.price = parseFloat(document.getElementById("product-price").value);
+            product.image = document.getElementById("product-image").value.trim();
+
+            if (!product.name || !product.description || isNaN(product.price) || product.price <= 0 || !product.image) {
+                alert("Vui lòng điền đầy đủ thông tin sản phẩm!");
+                return;
+            }
+
+            localStorage.setItem("products", JSON.stringify(products));
+
+            alert("Cập nhật sản phẩm thành công!");
+            window.location.href = "index.html"; // Quay lại trang quản lý
+        });
+    </script>
+</body>
+</html>
